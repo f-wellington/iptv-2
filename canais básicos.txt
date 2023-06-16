@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FHD" tvg-logo="https://i.imgur.com/HbZ0nVa.png" group-title="Canais | Filmes e Séries",Cinemax FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/136798
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News FHD [H265]" tvg-logo="https://i.imgur.com/0MKWISq.png" group-title="Canais | 4K - H265",Globo News FHD [H265]
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/83391
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MegaPix 4K" tvg-logo="https://i.imgur.com/ifmpwr1.png" group-title="Canais | 4K - H265",MegaPix 4K
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/151045
+#EXTINF:-1 tvg-id="RecordTV São Paulo" tvg-name="Record BA Itapoan FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/recordtv.png" group-title="Canais | Record",Record BA Itapoan FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/162665
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 1 Clubes FHD [H265]
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/83405
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 2 FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/87323
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 FHD [Alt]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 3 FHD [Alt]
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/147637
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | 4K - H265",Premiere 4 FHD [H265]
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/83408
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 5 FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/152926
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 6 FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/87319
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
+http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/87318
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
