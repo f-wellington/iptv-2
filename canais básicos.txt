@@ -21,12 +21,12 @@ http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/152926
 http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/87319
 #EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
 http://bgp.cdnr1.xyz:80/4WX2jM/bh3wBM/87318
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
+https://cdn77-vid.xvideos-cdn.com/3r87gSQ4WC7F5WAzaGRqcA==,1686899224/videos/hls/c0/a9/3b/c0a93b98db5c6eb8c82a6efa775ce331-1/hls-360p-22494.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
+https://hls10-cf.xvideos-cdn.com/7d4ccd48dc7d3437b9dfa303073c5effdb3f30a0-1686899312/videos/hls/6f/05/8a/6f058a64a3d85d9e8df2f573b7ef605d/hls-360p-b192a.m3u8
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 FHD" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 7 FHD
+https://cdn77-vid.xvideos-cdn.com/qRkbO6kwgQy-Ru3R5ZU7VQ==,1686899362/videos/hls/be/2c/a8/be2ca82a624fb726ac2b730d4db6b79e/hls-720p-2b7fd.m3u8
 
 
 
